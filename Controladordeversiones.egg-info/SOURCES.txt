@@ -1,0 +1,7 @@
+README.md
+setup.py
+Controladordeversiones/__init__.py
+Controladordeversiones.egg-info/PKG-INFO
+Controladordeversiones.egg-info/SOURCES.txt
+Controladordeversiones.egg-info/dependency_links.txt
+Controladordeversiones.egg-info/top_level.txt
